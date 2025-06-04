@@ -30,6 +30,10 @@ Aqui estão alguns comandos básicos para começar a usar o Git:
 - `git push`: Envia as alterações para o repositório remoto.
 - `git pull`: Atualiza o repositório local com as alterações do remoto.
 
+## O que são Branches?
+
+Branches (ramificações) são uma funcionalidade essencial do Git que permite criar linhas independentes de desenvolvimento dentro de um repositório. Elas são úteis para trabalhar em novas funcionalidades, corrigir bugs ou testar ideias sem interferir no código principal. Após finalizar as alterações em uma branch, você pode mesclá-la (merge) de volta à branch principal, como a `main` ou `master`.
+
 ## Como Contribuir
 
 1. Faça um fork deste repositório.
