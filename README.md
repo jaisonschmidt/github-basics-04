@@ -42,6 +42,10 @@ Branches (ramificações) são uma funcionalidade essencial do Git que permite c
 4. Envie para o repositório remoto: `git push origin minha-funcionalidade`.
 5. Abra um Pull Request para revisão.
 
+## Sobre a microsoft
+
+Texto falando sobre a Microsoft
+
 ## Recursos Adicionais
 
 - [Documentação Oficial do Git](https://git-scm.com/doc)
